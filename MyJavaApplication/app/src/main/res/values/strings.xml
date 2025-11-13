@@ -3,5 +3,11 @@
     <string name="texto_macarrao">MACARRÃO CARBONARA</string>
     <string name="texto_risoto">RISOTTO CREMOSO</string>
     <string name="texto_rondeli">RONDELLI ITALIANO</string>
+
+    <string name="app_name">Teste Slide</string>
+    <string name="texto_coca">Coca Cola</string>
+    <string name="texto_sprite">Sprite</string>
+    <string name="texto_fanta">Fanta</string>
+
 </resources>
 
